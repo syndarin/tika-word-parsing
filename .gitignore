@@ -1,0 +1,5 @@
+/bin
+/.settings
+/res
+*.class
+*.log
